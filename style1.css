@@ -1,0 +1,27 @@
+.box{
+    border: 50px solid red;
+    width: 200px;
+    margin-bottom: 20px;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box:hover {
+    border-color: #e74c3c;
+}
+
+.green {
+    border-color: green
+}
+
+.green:hover {
+    border-color: #27ae60
+}
+
+.blue {
+    border-color: blue;
+}
+
+.blue:hover {
+    border-color: #2980b9;
+}
